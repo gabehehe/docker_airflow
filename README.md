@@ -23,5 +23,3 @@ A imagem está rodando em modo Celery, simulando uma arquitetura em nuvem.
 Para subir o arquivo docker-composer com n workers:
 
 docker-compose up -d --scale worker=2
-
-Nas demais instruções, pelo autor original da imagem:
